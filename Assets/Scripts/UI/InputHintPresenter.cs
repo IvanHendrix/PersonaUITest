@@ -8,7 +8,6 @@ namespace UI
 {
     public static class InputHintPresenter
     {
-        private const string KeyboardSchemeName = "Keyboard";
         private static readonly List<IInputHintTarget> Targets = new();
 
         private static InputHintLibrary _hintLibrary;
@@ -39,7 +38,7 @@ namespace UI
                 Targets.Add(target);
             }
 
-            string scheme = InputSchemeManager.Instance.CurrentScheme ?? KeyboardSchemeName;
+            string scheme = InputSchemeManager.Instance.CurrentScheme;
             ApplyToTarget(target, scheme);
         }
 

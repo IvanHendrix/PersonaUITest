@@ -39,19 +39,19 @@ MonoBehaviour:
     xboxText: Accept
     ps5Text: Accept
     keyboardSpriteName: {fileID: 21300000, guid: 920b72e740129af44b5fade03dd07b0c, type: 3}
-    xboxSpriteName: {fileID: 21300000, guid: a7d7eed4f9995c842b3b9dc25f28c0e4, type: 3}
-    ps5SpriteName: {fileID: 21300000, guid: b10f789ded8570247b332319a9703eab, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: de958cfcea01d90448d440da3505bf25, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: 20b83d1d300579847be2ce07506fe8cd, type: 3}
   - id: Cancel
     keyboardText: Cancel
     xboxText: Cancel
     ps5Text: Cancel
     keyboardSpriteName: {fileID: 21300000, guid: 014fc41a04825ae49b417f66a95a87cb, type: 3}
-    xboxSpriteName: {fileID: 21300000, guid: 3a81b0b5877f98e48925131863487863, type: 3}
-    ps5SpriteName: {fileID: 21300000, guid: a4b1eb3db53182c428aa4b3e77f651d9, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: 0e4913fdb17057c408bcea0f5cb2d1aa, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: 614229e268faa044c9d38dc2646c3635, type: 3}
   - id: Change
     keyboardText: Change
     xboxText: Change
     ps5Text: Change
-    keyboardSpriteName: {fileID: 21300000, guid: 993942a66484bce43a8db5b1e0b28bb7, type: 3}
-    xboxSpriteName: {fileID: 21300000, guid: bf7c05eeb5d36a24bbba879f27817988, type: 3}
-    ps5SpriteName: {fileID: 21300000, guid: 41004de5efa9e50478399d48f7a14b0e, type: 3}
+    keyboardSpriteName: {fileID: 21300000, guid: 75df13a6fdf5ea8409080d9b3c0955d2, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: c6585fb1d99f6a34a987de7dd603c004, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: dbed0086788b64e4e801c975bfb0ee77, type: 3}
