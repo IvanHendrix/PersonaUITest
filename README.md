@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/b444bf2d-24d7-4022-9e10-6b46eee87dcd)# PersonaUITest
-
 ## ✨ Bonus Features
 - Full controller-first navigation support
 - Stylized UI with custom highlights & sound feedback
