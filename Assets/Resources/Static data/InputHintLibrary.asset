@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004951128ab848a0949c6684f8ce3c73, type: 3}
+  m_Name: InputHintLibrary
+  m_EditorClassIdentifier: 
+  hintDefinitions:
+  - id: TitleStartText
+    keyboardText: Press any key
+    xboxText: Press any button
+    ps5Text: Press any button
+    keyboardSpriteName: {fileID: 0}
+    xboxSpriteName: {fileID: 0}
+    ps5SpriteName: {fileID: 0}
+  - id: LeftTab
+    keyboardText: 
+    xboxText: 
+    ps5Text: 
+    keyboardSpriteName: {fileID: 21300000, guid: 6c01bfcf0d8263b49b2888dd066df591, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: 74e5ba21941a6e743b13aabfb5b1e9cb, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: b535592d248567d4c885ad594a594914, type: 3}
+  - id: RightTab
+    keyboardText: 
+    xboxText: 
+    ps5Text: 
+    keyboardSpriteName: {fileID: 21300000, guid: 7c48a4ecf8692e444938a92c2f13466d, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: fd3057b253f78a541b8c7188303db527, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: 6f913e4f17a0fe34fb0f0da668c2bbce, type: 3}
+  - id: Accept
+    keyboardText: Accept
+    xboxText: Accept
+    ps5Text: Accept
+    keyboardSpriteName: {fileID: 21300000, guid: 920b72e740129af44b5fade03dd07b0c, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: a7d7eed4f9995c842b3b9dc25f28c0e4, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: b10f789ded8570247b332319a9703eab, type: 3}
+  - id: Cancel
+    keyboardText: Cancel
+    xboxText: Cancel
+    ps5Text: Cancel
+    keyboardSpriteName: {fileID: 21300000, guid: 014fc41a04825ae49b417f66a95a87cb, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: 3a81b0b5877f98e48925131863487863, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: a4b1eb3db53182c428aa4b3e77f651d9, type: 3}
+  - id: Change
+    keyboardText: Change
+    xboxText: Change
+    ps5Text: Change
+    keyboardSpriteName: {fileID: 21300000, guid: 993942a66484bce43a8db5b1e0b28bb7, type: 3}
+    xboxSpriteName: {fileID: 21300000, guid: bf7c05eeb5d36a24bbba879f27817988, type: 3}
+    ps5SpriteName: {fileID: 21300000, guid: 41004de5efa9e50478399d48f7a14b0e, type: 3}
